@@ -8,9 +8,11 @@ Embedded systems engineer in Riga — firmware, PCBs, magnetics instrumentation,
 
 ## Bench OS
 
-[**treize-lab**](https://github.com/streboreziert/treize-lab) — twenty founder tools (AI, magnetics, firmware, synth). No login. CLI + browser.
+Twenty standalone repos + one CLI. Each tool has a live workbench.
 
-[Open the lab →](https://robertstreize.com/lab.html)
+[**treize-lab**](https://github.com/streboreziert/treize-lab) · [open the lab →](https://robertstreize.com/lab.html)
+
+`token-budget` · `prompt-packer` · `almost-json` · `schema-sketch` · `context-cost` · `edit-distance` · `noeti-split` · `helmholtz-field` · `loop-field` · `eurorack-hp` · `resistor-bands` · `voltage-divider` · `rc-cutoff` · `uart-baud` · `flash-ram-budget` · `crc8-atm` · `i2c-map` · `aeriq-comfort` · `homo-quad` · `tap-tempo`
 
 ---
 
